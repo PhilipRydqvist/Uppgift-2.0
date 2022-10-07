@@ -1,0 +1,12 @@
+{"username":"Organizer1337","password":"$2a$10$4c3P5BSKPOfFVnoskU3ek.SE8sTVOSYiJgeXeCaBV81Vib.Jf3mtG","_id":"FZec8D4r17jHjcaO"}
+{"id":1,"artist":"Lasse-Stefanz","date":"21 Mar","time":"19:00 - 21.00","price":"350 sek","place":"Kjell Härnqvistsalen","_id":"OrFXlYeiiKqjp87E"}
+{"id":2,"artist":"Pelle Trubadur","date":"29 Mar","time":"22.00 - 00:00","price":"110 sek","place":"Pubbelipubben","_id":"2FH3HvWdbqAsg1PD"}
+{"id":3,"artist":"Kajsas kör","date":"10 Apr","time":"15:00 - 16:00","price":"99 SEK","place":"Göteplatsen","_id":"ld0fI1PRh1WhuNlm"}
+{"id":4,"artist":"Klubb Untz","date":"17 Apr","time":"22:00 - du tröttnar","price":"150 SEK","place":"Din favoritkällare","_id":"BWqmHCtTAnAHVp5W"}
+{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":false,"_id":"73i7qCxPc8c4XAgd"}
+{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":true,"_id":"73i7qCxPc8c4XAgd"}
+{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":true,"_id":"73i7qCxPc8c4XAgd"}
+{"ticket":"$2a$10$1y3tp1EGcZ2lTPEkExS4F.RyAhwdN9i4rPttpOajxZEE0BIkSEHp.","eventId":3,"verified":false,"_id":"ueQ0udH23ehDT4vi"}
+{"ticket":"$2a$10$1y3tp1EGcZ2lTPEkExS4F.RyAhwdN9i4rPttpOajxZEE0BIkSEHp.","eventId":3,"verified":true,"_id":"ueQ0udH23ehDT4vi"}
+{"ticket":"$2a$10$.BKEV/TMxAPoGK2WP6iPVusqmX0JJZfaOeAo/8afMElvdUWdtt0Uy","eventId":2,"verified":false,"_id":"4FDl7IiaShYCjFRE"}
+{"ticket":"$2a$10$.BKEV/TMxAPoGK2WP6iPVusqmX0JJZfaOeAo/8afMElvdUWdtt0Uy","eventId":2,"verified":true,"_id":"4FDl7IiaShYCjFRE"}

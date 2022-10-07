@@ -34,7 +34,7 @@ async function getMenu() {
                 alert('Verified ticket!')
             }
             else{
-                alert('did not match ticket!')
+                alert('did not match ticket or ticket already used!')
             }
     }
 
