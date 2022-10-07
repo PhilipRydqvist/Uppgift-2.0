@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Sansita:wght@700&display=swap");
 
-body {
- /*  height: 667px;
+/* body {
+   height: 667px;
   width: 375px;
   Top: -221px;
     Left: -437px; 
-  background: #231F42;  */ 
-}
+  background: #231F42;  
+} */
 
 #Events-index {
-  font-family: 'Sansita One';
+  font-family: 'Sansita One', "Fira Sans";
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -31,6 +31,36 @@ body {
   color: #F56B9A;
 }
 
+.event-artist
+{
+  display: absolute;
+  display: flow-root;
+  font-family: "Fira Sans";
+  font-size: 22px;
+  offset: 1px, 1px;
+  Color: #F56B9A;
+  
+  
+}
+
+.event-time {
+  display: flow-root;
+}
+
+.event-price {
+  position: absolute;
+  right: 15px;
+  Fill: Solid;
+  color:#37AEAB;
+}                             
+
+.event-place {
+  display: flow-root;
+  font-family: "Fira Sans";
+  font-style: Italic;
+  font-style: 12px;
+}                                
+    
 #container h1 {
   color: #F56B9A;
 }
@@ -39,8 +69,8 @@ li {
   margin-top:0.5rem;
   margin-bottom:0.5rem;
   color: #fff;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 /* css för menyn för mina events / biljetter */
@@ -57,7 +87,8 @@ li {
   border-radius: 3px;
     position: absolute;
     left: 15px;
-    height: 30px;
+    height: 54px;
+    width: 54px;
     padding-top: 6px;
     padding-right: 6px;
     padding-left: 6px;

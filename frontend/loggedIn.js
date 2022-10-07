@@ -34,7 +34,7 @@ async function getMenu() {
                 alert('Verified ticket!')
             }
             else{
-                alert('did not match ticket or ticket already used!')
+                alert('Did not match ticket or ticket already used!')
             }
     }
 
@@ -48,7 +48,7 @@ async function getMenu() {
 
         if(!token){
             window.location.href = 'http://127.0.0.1:5500/frontend/login.html';
-
+            alert ("You have to login")
         }
     }
 

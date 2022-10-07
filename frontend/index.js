@@ -15,9 +15,9 @@ const eventList = document.querySelector('#eventList');
                 `
                 <span class="event-artist">${event.artist}</span>
                 <span class="event-date">${event.date}</span>
+                <span class="event-place">${event.place}</span>
                 <span class="event-time">${event.time}</span>                 
                 <span class="event-price">${event.price}</span>                
-                <span class="event-place">${event.place}</span>  
                 `;
                 li.addEventListener("click", () => {  
                     createTicket(event); 

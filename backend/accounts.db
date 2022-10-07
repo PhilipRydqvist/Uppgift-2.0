@@ -1,12 +1,27 @@
+{"ticket":"$2a$10$.JxVd4DoRQ9Ff6Lz5XewueH0Z1zj2HSFJIgchJrOUlNEvGRO.N36y","eventId":1,"verified":true,"_id":"06OyUaTh3QELAVIT"}
+{"id":2,"artist":"Pelle Trubadur","date":"29 Mar","time":"22.00 - 00:00","price":"110 sek","place":"Pubbelipubben","_id":"2FH3HvWdbqAsg1PD"}
+{"ticket":"$2a$10$.BKEV/TMxAPoGK2WP6iPVusqmX0JJZfaOeAo/8afMElvdUWdtt0Uy","eventId":2,"verified":true,"_id":"4FDl7IiaShYCjFRE"}
+{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":true,"_id":"73i7qCxPc8c4XAgd"}
+{"id":4,"artist":"Klubb Untz","date":"17 Apr","time":"22:00 - du tröttnar","price":"150 SEK","place":"Din favoritkällare","_id":"BWqmHCtTAnAHVp5W"}
 {"username":"Organizer1337","password":"$2a$10$4c3P5BSKPOfFVnoskU3ek.SE8sTVOSYiJgeXeCaBV81Vib.Jf3mtG","_id":"FZec8D4r17jHjcaO"}
 {"id":1,"artist":"Lasse-Stefanz","date":"21 Mar","time":"19:00 - 21.00","price":"350 sek","place":"Kjell Härnqvistsalen","_id":"OrFXlYeiiKqjp87E"}
-{"id":2,"artist":"Pelle Trubadur","date":"29 Mar","time":"22.00 - 00:00","price":"110 sek","place":"Pubbelipubben","_id":"2FH3HvWdbqAsg1PD"}
+{"username":"Organizer1337","password":"$2a$10$Ss500I9Wi6Rb/Tj7DXD9RukKFYzyVENBW2DjcOrRrKcd0pT/SsT4q","_id":"WvLNO916f5lTuMjQ"}
+{"ticket":"$2a$10$m5ZAtu9PTJ6yVU.6NmCS9uEmxCztSd4WuZaNskpNYSFT8FrBrGwMm","eventId":1,"verified":false,"_id":"Y9KJ8qr3RJzEf6CU"}
 {"id":3,"artist":"Kajsas kör","date":"10 Apr","time":"15:00 - 16:00","price":"99 SEK","place":"Göteplatsen","_id":"ld0fI1PRh1WhuNlm"}
-{"id":4,"artist":"Klubb Untz","date":"17 Apr","time":"22:00 - du tröttnar","price":"150 SEK","place":"Din favoritkällare","_id":"BWqmHCtTAnAHVp5W"}
-{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":false,"_id":"73i7qCxPc8c4XAgd"}
-{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":true,"_id":"73i7qCxPc8c4XAgd"}
-{"ticket":"$2a$10$iJyPvSYylJK6vhs9.AwntufzQeQZz/oGXO1NkMVc.AYUNNTQ5ffq6","eventId":1,"verified":true,"_id":"73i7qCxPc8c4XAgd"}
-{"ticket":"$2a$10$1y3tp1EGcZ2lTPEkExS4F.RyAhwdN9i4rPttpOajxZEE0BIkSEHp.","eventId":3,"verified":false,"_id":"ueQ0udH23ehDT4vi"}
 {"ticket":"$2a$10$1y3tp1EGcZ2lTPEkExS4F.RyAhwdN9i4rPttpOajxZEE0BIkSEHp.","eventId":3,"verified":true,"_id":"ueQ0udH23ehDT4vi"}
-{"ticket":"$2a$10$.BKEV/TMxAPoGK2WP6iPVusqmX0JJZfaOeAo/8afMElvdUWdtt0Uy","eventId":2,"verified":false,"_id":"4FDl7IiaShYCjFRE"}
-{"ticket":"$2a$10$.BKEV/TMxAPoGK2WP6iPVusqmX0JJZfaOeAo/8afMElvdUWdtt0Uy","eventId":2,"verified":true,"_id":"4FDl7IiaShYCjFRE"}
+{"username":"Organizer1337","password":"$2a$10$7cPQzU852s8xwm3MThPwTOwm.TplGqYESTZPyp6/XDq/yIBg0GDGe","_id":"VGDqhzFb2YM0VilV"}
+{"ticket":"$2a$10$jUMq8ThifwRUiqM7DRnkPeCguH4mtc22oHu1VIGWMobS0F1mE3etO","eventId":1,"verified":false,"_id":"Gn0wDt0vzkZRTqdY"}
+{"ticket":"$2a$10$m5ZAtu9PTJ6yVU.6NmCS9uEmxCztSd4WuZaNskpNYSFT8FrBrGwMm","eventId":1,"verified":true,"_id":"Y9KJ8qr3RJzEf6CU"}
+{"ticket":"$2a$10$m5ZAtu9PTJ6yVU.6NmCS9uEmxCztSd4WuZaNskpNYSFT8FrBrGwMm","eventId":1,"verified":true,"_id":"Y9KJ8qr3RJzEf6CU"}
+{"ticket":"$2a$10$QEoKj8Q62qe/KbzzAetJQewPj1raqfQhiRFp8DxQ3lS3Vvm7pZ7OK","eventId":1,"verified":false,"_id":"EO2z6wVf8D9IDB3A"}
+{"ticket":"$2a$10$QEoKj8Q62qe/KbzzAetJQewPj1raqfQhiRFp8DxQ3lS3Vvm7pZ7OK","eventId":1,"verified":true,"_id":"EO2z6wVf8D9IDB3A"}
+{"ticket":"$2a$10$UcKtfXdJIiZ.O8JI5Yu6w.wsGQLzAUajLOs2hrfXz0G6UjCegNulW","eventId":1,"verified":false,"_id":"ZWXvbjkQSaCuQRof"}
+{"ticket":"$2a$10$jUMq8ThifwRUiqM7DRnkPeCguH4mtc22oHu1VIGWMobS0F1mE3etO","eventId":1,"verified":true,"_id":"Gn0wDt0vzkZRTqdY"}
+{"ticket":"$2a$10$UcKtfXdJIiZ.O8JI5Yu6w.wsGQLzAUajLOs2hrfXz0G6UjCegNulW","eventId":1,"verified":true,"_id":"ZWXvbjkQSaCuQRof"}
+{"ticket":"$2a$10$EdJpw3iUarLbO7hvF.JgJ.dbACFbcsRCWJeFrxxyYiXUmC5R4dVQG","eventId":1,"verified":false,"_id":"usPAN9mdQTaQOX9x"}
+{"ticket":"$2a$10$SL3oT.ygmRp6Q.7yHR1YSOcGm1eC0dodAToYYJoI4Zd0z0mNtweKi","eventId":1,"verified":false,"_id":"S0k2SX8WVivCnEvn"}
+{"ticket":"$2a$10$YaulHhmn9uWkNk0tqZO/POwLBwsXP5ml/bdulIIwXTsdsh9nxHW7u","eventId":1,"verified":false,"_id":"uJKjjzSs3gg5Rubt"}
+{"ticket":"$2a$10$Bc2B2XaQgmTj4VTEs.kq4.qypCX472uTMIk5XOfDGb1otV5a33oSW","eventId":2,"verified":false,"_id":"yorJqWYavfrk0HNI"}
+{"ticket":"$2a$10$eL03qWrb0nKqNlEYBSebZOs2ACmkiVgWprDtocDp0WlQyvoJOX6ka","eventId":3,"verified":false,"_id":"jZNYa1kWRbfVslLE"}
+{"ticket":"$2a$10$fq7E09ZAslitAnlT8o6B/uADW4WH43jXivZwFaRHctILu.J9lFseW","eventId":1,"verified":false,"_id":"PgEVfAN2rx6H8sHR"}
+{"ticket":"$2a$10$dcvJgIwWvfFYt0Xw1t8zyOkybFeIWVqbi.YVmz5/Xn/09poVVmhwK","eventId":1,"verified":false,"_id":"aetXSITQdjdqnSyW"}
