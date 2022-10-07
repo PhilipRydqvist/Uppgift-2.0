@@ -1,0 +1,209 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans&family=Sansita:wght@700&display=swap");
+
+body {
+ /*  height: 667px;
+  width: 375px;
+  Top: -221px;
+    Left: -437px; 
+  background: #231F42;  */ 
+}
+
+#Events-index {
+  font-family: 'Sansita One';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  color: #F56B9A;
+}
+
+.container {
+  position: absolute;
+  height: 667px;
+  width: 375px;
+  background-color: #231F42;
+  text-align: center;
+
+}
+
+#eventList {
+  list-style-type: none;
+  color: #F56B9A;
+}
+
+#container h1 {
+  color: #F56B9A;
+}
+
+li {
+  margin-top:0.5rem;
+  margin-bottom:0.5rem;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* css för menyn för mina events / biljetter */
+
+.menu-item {
+  color: #ffffff; /*För en vit färg på texten*/
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .event-date {
+  border: 1px solid #FFFFFF;
+  box-sizing: border-box;
+  border-radius: 3px;
+    position: absolute;
+    left: 15px;
+    height: 30px;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+} 
+
+/* index */
+/* #container {
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+    Width: 375px;
+    Height: 667px;
+    Top: -221px;
+    Left: -437px; 
+    background-color: #231F42;
+
+/* position: relative;
+  display: flex;
+  margin: auto;
+  margin-top: 8px;
+  width: 375px;
+  height: 667px;
+  text-align: center;
+  background: #231f42;
+  flex-direction: column;
+  font-family: sans-serif; 
+  /* border: solid;  */
+  /* border-width: 3px;   
+} 
+
+
+/* #Events-index {
+    color: #F56B9A;
+    font-family: 'Sansita';
+    font-size: 32px;
+    align-items: center;
+    text-align: center;
+    margin-top: -150px;
+}
+
+.menu {
+    align-items: center;
+    color: white; 
+}
+
+#eventList {
+align-items: center;
+text-align: center;
+flex-direction: column;
+list-style: none;
+margin-top:300px;
+margin-left: 100px;
+}
+
+
+
+#event-date {
+    flex-direction: column;
+    color: #FFFFFF;
+    font-family: "Fira Sans";
+    font: bold;
+    font-size: 22px;
+    line-height: 26.4px;
+    line-height: 100%;
+    align-content: Left;
+    vertical-align: Center;
+}
+
+#event-artist {
+    color: #FFFFFF;
+    font-family: "Fira Sans";
+    font: bold;
+    font-size: 22px;
+    line-height: 26.4px;
+    line-height: 100%;
+    align-content: Left;
+    vertical-align: Center;
+}
+
+#event-place {
+    color: #FFFFFF;
+    font-family: "Fira Sans";
+    font-style: Italic;
+    font-size: 12px;
+    line-height: 14.4px;
+    line-height: 100%;
+    align-content: left;
+    vertical-align: top;
+}
+
+#event-time {
+    color: #FFFFFF;
+    font-family: "Fira Sans";
+    font-style: Italic;
+    font-size: 12px;
+    line-height: 14.4px;
+    line-height: 100%;
+    align-content: left;
+    vertical-align: top;
+}
+
+#event-price {
+    color: #FFFFFF;
+    font-family: "Fira Sans";
+    font-style: Italic;
+    font-size: 12px;
+    line-height: 14.4px;
+    line-height: 100%;
+    align-content: left;
+    vertical-align: top;
+}
+
+  li:nth-last-child(4) {
+    --y: calc(-50% + -80px);
+    transform: translate(-50%, var(--y)) scale(0.9);
+    
+  }
+  li:nth-last-child(3) {
+    --y: calc(-50% + -45px);
+    transform: translate(-50%, var(--y)) scale(0.95);
+  }
+  li:nth-last-child(2) {
+    --y: calc(-50%);
+    transform: translate(-50%, var(--y)) scale(1);
+  }
+  li:nth-last-child(1) {
+    --y: calc(-50% + 45px);
+    transform: translate(-50%, var(--y)) scale(1.05);
+  } */ 
+
+  /* li:nth-last-child(4):hover {
+    --y: calc(-50% + -90px);
+    transform: translate(-50%, var(--y)) scale(0.9);
+    
+  }
+  li:nth-last-child(3):hover {
+    --y: calc(-50% + -60px);
+    transform: translate(-50%, var(--y)) scale(0.95);
+  }
+  li:nth-last-child(2):hover {
+    --y: calc(-50% + -20px);
+    transform: translate(-50%, var(--y)) scale(1);
+  }
+    li:nth-last-child(1):hover {
+        --y: calc(-50% + 20px);
+        transform: translate(-50%, var(--y)) scale(1.05);
+    } */

@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    Width: 375px;
+    Height: 667px;
+    Top: -221px;
+    Left: -437px;
+    background-color:#F39440;
+}
+

@@ -1,0 +1,83 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+    Width: 375px;
+    Height: 667px;
+    Top: -221px;
+    Left: -437px; 
+    background-color:#F39440;
+} 
+
+/* #container-username {
+     Width: 310px;
+    Height: 63px;
+    Top: 325px;
+    Left: 32px;
+    border-width: 3px;
+    border: solid #231F42; 
+} */
+
+/* .staff {
+    position: absolute;
+width: 281px;
+height: 35px;
+left: 47px;
+top: 198px;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.3em;
+
+color: rgba(0, 0, 0, 0.8);
+} */
+
+#username-login {
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+    align-items: center;
+    Width: 310px;
+    Height: 60px;
+    Top: 325px;
+    Left: 32px;
+    border-width: 3px;
+    border: solid #231F42;
+    background: #F39440;
+}
+
+#password-login {
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+    align-items: center;
+    Width: 310px;
+    Height: 60px;
+    Top: 427px;
+    Left: 32px;
+    border-width: 3px;
+    border: solid #231F42;
+    background:#F39440;
+    size: 20px;
+}
+
+#login-button {
+    
+    
+    Width: 317px;
+    Height: 60px;
+    Top: 555px;
+    Left: 32px;
+    background: #231F42;
+    color: #FFFFFF;
+}
